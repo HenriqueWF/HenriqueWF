@@ -1,20 +1,13 @@
 <h1 align="center">Olá! 👋 Prazer, sou o Henrique!</h1>
 <h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
-<h3 align="left">🗨 Sobre mim:</h3>
+<h2 align="left">🗨 Sobre mim:</h2>
 
  - 👨‍🎓 Sou formado em Ciências Biológicas pela PUCPR.
  - 👨‍💻 Migrei para a área de TI em 2021. Possuo experiência com suporte de infraestrutura de TI há mais de dois anos.
  - 🔭 Estou em transição de carreira para a área de dados!
 
-<h3 align="left">🌐 Contato:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
-<a href="https://kaggle.com/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henriquewfranco" height="30" width="40" /></a>
-<a href="https://medium.com/@henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henriquewfranco" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">🖥 Tech Skills:</h3>
+<h2 align="left">🖥 Tech Skills</h2>
 
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -30,21 +23,17 @@
     </p> 
 
 ###
-  <h3 align="left">🗺 Guia de Repositórios:</h3>
+  <h2 align="left">🗺 Guia de Repositórios</h2>
 
  - [Portfolio](https://github.com/HenriqueWF/portfolio): projetos de análise e ciências de dados desenvolvidos para o meu portfólio
  - Artigos: meus artigos no Medium que tratam sobre a área de dados em geral
  - Cursos: resumos e documentos de conteúdos que estudei ou que estou estudando
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🌐 Redes</h2>
+<div style="display: inline_block">
+ <p align="left">
+ <a href="https://linkedin.com/in/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henriquewfranco" height="30" width="40" /></a>
+ <a href="https://kaggle.com/henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="henriquewfranco" height="30" width="40" /></a>
+ <a href="https://medium.com/@henriquewfranco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@henriquewfranco" height="30" width="40" /></a>
+ </p>
+</div> 
