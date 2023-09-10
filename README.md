@@ -26,8 +26,8 @@
   <h2 align="left">🗺 Guia de Repositórios</h2>
 
  - [Portfolio](https://github.com/HenriqueWF/portfolio): projetos de análise e ciências de dados desenvolvidos para o meu portfólio
- - [Artigos](https://github.com/HenriqueWF/Artigos/tree/main): meus artigos no Medium que tratam sobre a área de dados em geral
- - Cursos: resumos e documentos de conteúdos que estudei ou que estou estudando
+ - [Artigos](https://github.com/HenriqueWF/Artigos/tree/main): meus artigos no Medium, LinkedIn e outras plataformas que tratam sobre a área de dados em geral
+ - [Cursos](https://github.com/HenriqueWF/Cursos): resumos e documentos de conteúdos que estudei ou que estou estudando
 
 <h2 align="left">🌐 Redes</h2>
 <div style="display: inline_block">
