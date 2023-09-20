@@ -5,7 +5,7 @@
 
  - 👨‍🎓 Sou formado em Ciências Biológicas pela PUCPR.
  - 👨‍💻 Migrei para a área de TI em 2021. Possuo experiência com suporte de infraestrutura de TI há mais de dois anos.
- - 🔭 Estou em transição de carreira para a área de dados!
+ - 🔭 Atualmente estou focado na área de Análise de Dados.
 
 <h2 align="left">🖥 Tech Skills</h2>
 
