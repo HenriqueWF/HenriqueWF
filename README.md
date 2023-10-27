@@ -3,9 +3,10 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
- - 👨‍🎓 Sou formado em Ciências Biológicas pela PUCPR.
+ - 👨‍🎓 Sou formado em Ciências Biológicas pela PUCPR. Recebi o Prêmio Marcelino Champagnat de melhor desempenho acadêmico
  - 👨‍💻 Migrei para a área de TI em 2021. Possuo experiência com suporte de infraestrutura de TI há mais de dois anos.
- - 🔭 Atualmente estou focado na área de Análise de Dados.
+ - 📊 Fui gestor de TI, em que trabalhei com análise de dados (mais com PowerBI e Excel)
+ - 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados.
 
 <h2 align="left">🖥 Tech Skills</h2>
 
